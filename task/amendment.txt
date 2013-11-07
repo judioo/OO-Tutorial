@@ -1,0 +1,5 @@
+Add the following columns to the report:
+* NUM_WEEKS
+* LOCATION
+
+Test your changes first on your local DB
